@@ -59,9 +59,3 @@ The bot will only operate in the guild specified by `WHITELISTED_GUILD_ID` in th
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to improve the bot's functionality.
-# discord-verification-bot
-# discord-verification-bot
-# discord-verification-bot
-# discord-verification-bot
-# discord-verification-bot
-# discord-verification-bot
